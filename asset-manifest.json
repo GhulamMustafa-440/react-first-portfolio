@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-first-portfolio/static/css/main.fc94fb9c.css",
+    "main.js": "/react-first-portfolio/static/js/main.fc23f247.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-first-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/marketing.png": "/react-first-portfolio/static/media/marketing.70b06caab6088ffdc74e.png",
+    "static/media/digital.png": "/react-first-portfolio/static/media/digital.8518a67624cca96d0800.png",
+    "static/media/web.png": "/react-first-portfolio/static/media/web.cf5d1a62862525380ab8.png",
+    "static/media/app.png": "/react-first-portfolio/static/media/app.e04e9880bde1e73aa181.png",
+    "static/media/software.png": "/react-first-portfolio/static/media/software.3187d14f40aeed54b4f1.png",
+    "static/media/about.png": "/react-first-portfolio/static/media/about.769d9dca9fe903eb9354.png",
+    "static/media/android.png": "/react-first-portfolio/static/media/android.323a4e456ddabcee92ac.png",
+    "static/media/Hire-laravel-developers.png": "/react-first-portfolio/static/media/Hire-laravel-developers.5953b2b7de448181c393.png",
+    "index.html": "/react-first-portfolio/index.html",
+    "main.fc94fb9c.css.map": "/react-first-portfolio/static/css/main.fc94fb9c.css.map",
+    "main.fc23f247.js.map": "/react-first-portfolio/static/js/main.fc23f247.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-first-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc94fb9c.css",
+    "static/js/main.fc23f247.js"
+  ]
+}
